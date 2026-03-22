@@ -20,23 +20,23 @@ The Quiz App is a responsive web application that allows users to test their kno
 
 The project focuses on:
 
-* Dynamic question rendering
-* Interactive answer selection
-* Score calculation and result display
-* Responsive design
-* Clean code structure
-* Separation of HTML, CSS and JavaScript
+- Dynamic question rendering
+- Interactive answer selection
+- Score calculation and result display
+- Responsive design
+- Clean code structure
+- Separation of HTML, CSS and JavaScript
 
 ---
 
 ## 🎯 Features
 
-* Multiple quiz categories
-* Single-choice questions
-* Instant answer feedback
-* Score tracking
-* Restart quiz functionality
-* Responsive layout
+- Multiple quiz categories
+- Single-choice questions
+- Instant answer feedback
+- Score tracking
+- Restart quiz functionality
+- Responsive layout
 
 ---
 
